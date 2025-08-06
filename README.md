@@ -1,6 +1,10 @@
 # Edirom-Online-Course
 Introductory course into Edirom Online with a hands-on overview
 
+## Prerequisites
+
+Installed: Docker, VSCode
+
 ## Contents
 
 ### BLOCK I
