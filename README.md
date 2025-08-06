@@ -20,7 +20,7 @@ Introductory course into Edirom Online with a hands-on overview
 
 ### BLOCK IV
 
-- annotations, concordances (scripts)
+- annotations, concordances (scripts) [dj]
 
 ### BLOCK V
 
