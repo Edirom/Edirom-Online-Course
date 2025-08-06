@@ -3,26 +3,26 @@ Introductory course into Edirom Online with a hands-on overview
 
 ## Contents
 
-### Block 1
+### BLOCK I
 
 - introduction and history [kh]
 - build process with sample edition (with short introduction into Docker) [dj]
 - typical contents and structure of Edirom Online [dj]
 
-### Block 2
+### BLOCK II
 
 - creation of data set: edition, work, source (TEI, MEI) [kh]
 
-### Block 3
+### BLOCK III
 
-- data set continued
-- cartographer app with iiif manifests (plus local images the niko-way?)
+- open iiif manifests cartographer app [ha]
+- local iiif manifests with cantaloupe (plus local images the niko-way?) [ha]
 
-### Block 4
+### BLOCK IV
 
 - annotations, concordances (scripts)
 
-### Block 5
+### BLOCK V
 
 - modify edirom: table of contents (navigator), color, logo
 - future perspectives: split view, audio, video ...
