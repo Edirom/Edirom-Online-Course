@@ -5,8 +5,7 @@ Introductory course into Edirom Online with a hands-on overview
 
 ### Block 1
 
-- introduction and history
-- short introduction into Docker
-- build process with sample edition
+(a) introduction and history
+(b) build process with sample edition (with short introduction into Docker)
+(c) typical contents and structure of Edirom Online
 
-- 
