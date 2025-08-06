@@ -24,6 +24,6 @@ Introductory course into Edirom Online with a hands-on overview
 
 ### BLOCK V
 
-- modify edirom: table of contents (navigator), color, logo
-- future perspectives: split view, audio, video ...
-- edirom community, feedback
+- modify edirom: table of contents (navigator), color, logo [ha]
+- future perspectives: split view, audio, video ... [dj]
+- edirom community, feedback [kh]
