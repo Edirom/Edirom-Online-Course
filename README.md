@@ -11,5 +11,19 @@ Introductory course into Edirom Online with a hands-on overview
 
 ### Block 2
 
-- creation of data set: edition, work, source (TEI, MEI) 
+- creation of data set: edition, work, source (TEI, MEI) [kh]
+
+### Block 3
+
+- data set continued
 - cartographer app with iiif manifests (plus local images the niko-way?)
+
+### Block 4
+
+- annotations, concordances (scripts)
+
+### Block 5
+
+- modify edirom: table of contents (navigator), color, logo
+- future perspectives: split view, audio, video ...
+- edirom community, feedback
